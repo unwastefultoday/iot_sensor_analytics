@@ -18,4 +18,6 @@ Sensor measurements for CO, humidity, light, LPG, motion, smoke, and temperature
 
 Link to the dataset: https://docs.google.com/spreadsheets/d/1T1m50SR_mLjo4i0Um9jO4FLAOJgWccORU-MLBzV63mw/edit?usp=sharing
 
+Dataset uploaded to this repository as iot_telemetry_data.csv
+
 
